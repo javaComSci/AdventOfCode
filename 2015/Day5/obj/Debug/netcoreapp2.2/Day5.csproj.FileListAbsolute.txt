@@ -1,0 +1,11 @@
+/Users/indhu/Documents/AdventOfCode/2015/Day5/bin/Debug/netcoreapp2.2/Day5.deps.json
+/Users/indhu/Documents/AdventOfCode/2015/Day5/bin/Debug/netcoreapp2.2/Day5.runtimeconfig.json
+/Users/indhu/Documents/AdventOfCode/2015/Day5/bin/Debug/netcoreapp2.2/Day5.runtimeconfig.dev.json
+/Users/indhu/Documents/AdventOfCode/2015/Day5/bin/Debug/netcoreapp2.2/Day5.dll
+/Users/indhu/Documents/AdventOfCode/2015/Day5/bin/Debug/netcoreapp2.2/Day5.pdb
+/Users/indhu/Documents/AdventOfCode/2015/Day5/obj/Debug/netcoreapp2.2/Day5.csprojAssemblyReference.cache
+/Users/indhu/Documents/AdventOfCode/2015/Day5/obj/Debug/netcoreapp2.2/Day5.csproj.CoreCompileInputs.cache
+/Users/indhu/Documents/AdventOfCode/2015/Day5/obj/Debug/netcoreapp2.2/Day5.AssemblyInfoInputs.cache
+/Users/indhu/Documents/AdventOfCode/2015/Day5/obj/Debug/netcoreapp2.2/Day5.AssemblyInfo.cs
+/Users/indhu/Documents/AdventOfCode/2015/Day5/obj/Debug/netcoreapp2.2/Day5.dll
+/Users/indhu/Documents/AdventOfCode/2015/Day5/obj/Debug/netcoreapp2.2/Day5.pdb
